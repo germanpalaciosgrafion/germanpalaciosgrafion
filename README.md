@@ -1,3 +1,14 @@
+<h3 align="left">Hola 👋</h3>
+<h3 align="left">Soy German Palacios Grafion</h3>
+
+
+
+
+
+
+
+
+
 <h2 align="center">Hola 👋, soy German!</h2>
 <h3 align="center">Soy programador Full Stack de Argentina</h3>
 
