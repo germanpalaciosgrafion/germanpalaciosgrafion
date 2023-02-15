@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy German!</h1>
+<h2 align="center">Hola 👋, soy German!</h2>
 <h3 align="center">Soy programador Full Stack de Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
