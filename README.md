@@ -4,7 +4,7 @@
 <ul style="list-style: none;">
   <li style="list-style:none">Full Stack Developer - Analista Programador Universitario recibido en la Universidad Nacional de Jujuy en el año 2012.</li>
   <li>En estos últimos meses estuve inmersa en JAVASCRIPT | HTML | CSS | BOOTSTRAP | PHP | MYSQL | SQL SERVER | PYTHON | DJANGO.</li>
-  <li>Si querés intercambiar info, o preguntarme algo no dudes en contactarme.  📧 Mi mail es: <a mailto="ger.rodri09@gmail.com">ger.rodri09@gmail.com y mi Linkedin: <a href="https://linkedin.com/in/https://www.linkedin.com/in/german-rodrigo-palacios-grafion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-rodrigo-palacios-grafion/" height="10" width="10" /></a> </li>
+  <li>Si querés intercambiar info, o preguntarme algo no dudes en contactarme.  📧 Mi mail es: <a mailto="ger.rodri09@gmail.com">ger.rodri09@gmail.com y mi Linkedin: <a href="https://linkedin.com/in/german-rodrigo-palacios-grafion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-rodrigo-palacios-grafion/" height="10" width="10" /></a> </li>
 </ul>
 
 
