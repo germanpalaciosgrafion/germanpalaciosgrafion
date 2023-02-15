@@ -1,7 +1,9 @@
 <h3 align="left">Hola 👋</h3>
 <h3 align="left">Soy German Palacios Grafion</h3>
 
-
+<ul>
+  <li>Soy Analista Programador Universitario recibido en la Universidad Nacional de Jujuy en el año 2012.</li>
+</ul>
 
 
 
