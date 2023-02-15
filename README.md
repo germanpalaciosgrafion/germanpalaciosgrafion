@@ -1,8 +1,8 @@
 <h3 align="left">Hola 👋</h3>
 <h3 align="left">Soy German Palacios Grafion</h3>
 
-<ul style="list-style:none">
-  <li>Full Stack Developer - Analista Programador Universitario recibido en la Universidad Nacional de Jujuy en el año 2012.</li>
+<ul >
+  <li style="list-style:none">Full Stack Developer - Analista Programador Universitario recibido en la Universidad Nacional de Jujuy en el año 2012.</li>
   <li>En estos últimos meses estuve inmersa en JAVASCRIPT | HTML | CSS | BOOTSTRAP | PHP | MYSQL | SQL SERVER | PYTHON | DJANGO.</li>
 </ul>
 
