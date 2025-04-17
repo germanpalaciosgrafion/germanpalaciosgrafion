@@ -40,6 +40,9 @@
 
 <h3 align="left">📱 Mis Proyectos 📱</h3>
 
+
+![Uploading Captura de pantalla 2025-04-17 a las 11.29.48 a. m..png…]()
+
 <h3>Página Web Ministerio Público de la Acusación de Jujuy.</h3>
 <img align="center" width="100%" alt="Captura de pantalla 2023-02-15 a la(s) 19 08 30" src="https://user-images.githubusercontent.com/125482645/219187091-261540ab-c5e3-4e5e-9361-196874799281.png">
 
