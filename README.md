@@ -8,7 +8,6 @@
 </ul>
 
 <hr style="width:100%"/>
-
 <h3 align="left">💻 Lenguajes y Herramientas: 💻</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" style="margin-right:10px;margin-bottom:10px;" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="django" width="60" height="60"/></a>
@@ -33,7 +32,6 @@
 <p align="left">
   <a href="https://www.linux.org/" style="margin-right:10px;margin-bottom:10px;" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu Server" width="60" height="60"/></a>
   <a href="https://github.com/" style="margin-right:10px;margin-bottom:10px;" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" width="60" height="60"/></a>
-
 </p>
 
 <hr style="width:100%"/>
