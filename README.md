@@ -39,9 +39,60 @@
 <hr style="width:100%"/>
 
 <h3 align="left">📱 Mis Proyectos 📱</h3>
+<h3>Sistema de Gestión de Stock.</h3>
+
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 12 59 37 p  m" src="https://github.com/user-attachments/assets/c8c04a19-da55-4c33-9725-6cd6f87122c9" />
+
+<p>Sistema de gestión de stock para establecimiento dedicado a la repartición de comestibles y mercaderia.</p>
+<p>El sistema cuenta con módulo de gestión administrativa, donde puede dar permisos y gestion de usuarios y gestión de deposito donde registra las entradas y salidas de stock.</p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
 
 
-![Uploading Captura de pantalla 2025-04-17 a las 11.29.48 a. m..png…]()
+<h3>Sistema de Proveedores de la provinicia de Jujuy.</h3>
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 11 33 45 a  m" src="https://github.com/user-attachments/assets/791f8a58-9dc9-4482-9ceb-e843c3f925e6" />
+
+<p>Sistema de Proveedores de la Provincia de Jujuy, sistema desarrollado para la tesorería de la provincia, donde los usuarios pueden registrarse y gestionar sus pagos</p>
+
+<p>El sistema a su vez cuenta con un area administrativa donde se gestiona la habilitación y permsisos de usuarios</p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
+
+<h3>Tienda Online.</h3>
+
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 11 34 17 a  m" src="https://github.com/user-attachments/assets/8d33c8ae-ad5b-4bd2-a9b0-ec8d3924d83e" />
+
+<p>Página para la venta de productos importados, la misma cuenta con un carrito de compra y un area administrativa para poder gestionar el stocj disponible, los envios, y los usuarios.</p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
+
+
+
+<h3>Sistema de Gestión DIPEC.</h3>
+
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 11 34 31 a  m" src="https://github.com/user-attachments/assets/48865822-7254-413d-b2b8-16f8fb588c39" />
+
+<p>Sistema de gestión y administración para la Dirección Provincial de Estadística y Censos de la Provincia de Jujuy. </p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
+
+
+<h3>Sistema de Gestión Taller Mecánico.</h3>
+
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 11 37 04 a  m" src="https://github.com/user-attachments/assets/be455fc8-5aaf-43c0-8965-224aeb9cace6" />
+
+<p>Sistema de gestión administrativo de un taller mecánico, donde el administrador puede gestionar el historial de reparaciones, los productos utilizados para la reparación, los mecanicos que intervienen, historial de clientes y sus vehiculos.</p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
+
+<h3>Sistema de Gestión - Ministério de Desarrollo Humano.</h3>
+
+<img width="1491" alt="Captura de pantalla 2025-04-17 a las 12 31 27 p  m" src="https://github.com/user-attachments/assets/e4023517-6c6d-4402-8b51-d4137e9e92e8" />
+
+<p>Sistema de gestión administrativa para el Ministério de Desarrollo Humano de la provincia de Jujuy, el mismo cuenta con administración de usuarios, personas, y gestión de mapas utilizando qgis.</p>
+
+<p>Desarrollado con Django, Python, Postgres, Bootstrap Framework, Jquery, CSS y GitHub.</p>
+
 
 <h3>Página Web Ministerio Público de la Acusación de Jujuy.</h3>
 <img align="center" width="100%" alt="Captura de pantalla 2023-02-15 a la(s) 19 08 30" src="https://user-images.githubusercontent.com/125482645/219187091-261540ab-c5e3-4e5e-9361-196874799281.png">
